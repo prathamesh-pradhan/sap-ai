@@ -1,2 +1,2 @@
-# sap-ai
+# SAP AI
 sap-ai capabilities
