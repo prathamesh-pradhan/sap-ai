@@ -11,6 +11,8 @@ metadata:
     scenarios.ai.sap.com/id: "learning"
     ai.sap.com/version: "2.0"
 spec:
+  imagePullSecrets: 
+  - name: mydockerregistry-pp
   entrypoint: mypipeline
   templates:
   - name: mypipeline
